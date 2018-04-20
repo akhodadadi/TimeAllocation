@@ -4,3 +4,5 @@ The goal of this article is to investigate how human participants allocate their
 
 Read the paper [sciencedirect](https://www.sciencedirect.com/science/article/pii/S0010028516302183) or [arxiv](https://arxiv.org/abs/1607.05334).
 
+TODO:
+
